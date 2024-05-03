@@ -1,0 +1,12 @@
+{
+  "name": "@evermeet/sdk",
+  "version": "0.1.0",
+  "description": "JavaScript/TypeScript SDK for [Evermeet](https://github.com/evermeet/evermeet).",
+  "main": "./mod.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
